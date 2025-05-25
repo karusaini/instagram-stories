@@ -28,5 +28,157 @@
       "name": "Ravi",
       "profilePic": "https://i.pravatar.cc/150?img=3"
     }
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/id/240/400/700",
+    "caption": "Morning Tea ☕",
+    "duration": 5000,
+    "user": {
+      "name": "Priya",
+      "profilePic": "https://i.pravatar.cc/150?img=4"
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/id/241/400/700",
+    "caption": "At the Beach 🏖️",
+    "duration": 5000,
+    "user": {
+      "name": "Rahul",
+      "profilePic": "https://i.pravatar.cc/150?img=5"
+    }
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/id/242/400/700",
+    "caption": "Coding All Night 👨‍💻",
+    "duration": 5000,
+    "user": {
+      "name": "Meena",
+      "profilePic": "https://i.pravatar.cc/150?img=6"
+    }
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/id/243/400/700",
+    "caption": "Nature Walk 🌿",
+    "duration": 5000,
+    "user": {
+      "name": "Vikram",
+      "profilePic": "https://i.pravatar.cc/150?img=7"
+    }
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/id/244/400/700",
+    "caption": "Selfie Game Strong 📸",
+    "duration": 5000,
+    "user": {
+      "name": "Neha",
+      "profilePic": "https://i.pravatar.cc/150?img=8"
+    }
+  },
+
+  {
+    "id": 11,
+    "image": "https://picsum.photos/id/247/400/700",
+    "caption": "Chai & Chill ☕",
+    "duration": 5000,
+    "user": {
+      "name": "Soham",
+      "profilePic": "https://i.pravatar.cc/150?img=11"
+    }
+  },
+  {
+    "id": 12,
+    "image": "https://picsum.photos/id/248/400/700",
+    "caption": "Dance Rehearsal 💃",
+    "duration": 5000,
+    "user": {
+      "name": "Riya",
+      "profilePic": "https://i.pravatar.cc/150?img=12"
+    }
+  },
+  {
+    "id": 13,
+    "image": "https://picsum.photos/id/249/400/700",
+    "caption": "New Haircut ✂️",
+    "duration": 5000,
+    "user": {
+      "name": "Yash",
+      "profilePic": "https://i.pravatar.cc/150?img=13"
+    }
+  },
+  {
+    "id": 14,
+    "image": "https://picsum.photos/id/250/400/700",
+    "caption": "Book Time 📖",
+    "duration": 5000,
+    "user": {
+      "name": "Anjali",
+      "profilePic": "https://i.pravatar.cc/150?img=14"
+    }
+  },
+  {
+    "id": 15,
+    "image": "https://picsum.photos/id/251/400/700",
+    "caption": "Foodie Mood 🍕",
+    "duration": 5000,
+    "user": {
+      "name": "Manish",
+      "profilePic": "https://i.pravatar.cc/150?img=15"
+    }
+  },
+
+  {
+    "id": 1,
+    "image": "https://picsum.photos/id/1015/400/700",
+    "caption": "Exploring the Mountains 🏔️",
+    "duration": 5000,
+    "user": {
+      "name": "Nisha",
+      "profilePic": "https://i.pravatar.cc/150?img=16"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/id/1020/400/700",
+    "caption": "Coffee Time ☕",
+    "duration": 5000,
+    "user": {
+      "name": "Arjun",
+      "profilePic": "https://i.pravatar.cc/150?img=17"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/id/1033/400/700",
+    "caption": "City Lights ✨",
+    "duration": 5000,
+    "user": {
+      "name": "Diya",
+      "profilePic": "https://i.pravatar.cc/150?img=18"
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/id/1050/400/700",
+    "caption": "Fresh Air Walk 🌳",
+    "duration": 5000,
+    "user": {
+      "name": "Karan",
+      "profilePic": "https://i.pravatar.cc/150?img=19"
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/id/1062/400/700",
+    "caption": "Trekking Day 🎒",
+    "duration": 5000,
+    "user": {
+      "name": "Pooja",
+      "profilePic": "https://i.pravatar.cc/150?img=20"
+    }
   }
 ]

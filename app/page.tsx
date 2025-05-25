@@ -24,10 +24,20 @@ export default function HomePage() {
     const fetchStories = async () => {
       try {
         const res = await fetch("/stories.json");
+
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+
         const data = await res.json();
+
+        if (!Array.isArray(data)) {
+          throw new Error("Stories JSON must be an array");
+        }
+
         setStories(data);
       } catch (error) {
-        console.error("Failed to fetch stories:", error);
+        console.error("❌ Failed to fetch stories:", error);
       }
     };
 
@@ -51,7 +61,7 @@ export default function HomePage() {
         Instagram Stories Clone
       </h1>
 
-      {/* Horizontal Story Thumbnails */}
+      {/* Thumbnails */}
       <StoryThumbnails
         stories={stories}
         onSelect={openViewer}
